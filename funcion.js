@@ -18,7 +18,6 @@ const colors = {
 }
 
 const main_types = Object.keys(colors)
-let hola;
 
 const fetchPokemons = async () => {
     for(let i = 1; i <= pokemon_count; i++) {
