@@ -21,7 +21,7 @@ h1 {
   letter-spacing: 3px;
 }
 
-.poke-container {
+.pokecontainer {
   display: flex;
   flex-wrap: wrap;
   align-items: space-between;
