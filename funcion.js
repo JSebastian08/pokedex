@@ -79,7 +79,6 @@ function createPokemonCard(pokemon) {
 		targetColor = colors.ice
 	}
 
-
     const div = document.createElement("div");
 	div.classList.add("pokemon")
 	div.innerHTML = `
